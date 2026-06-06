@@ -13,7 +13,7 @@
 - Node.js
 - Python
 
-##My Description
+## My Description
 I am Vince Cascabel, an Information Technology (IT) student with a strong interest in web development, programming, networking, and database management. I am passionate about learning new technologies and developing practical solutions to real-world problems. Through my academic projects and hands-on experience, I have gained knowledge in HTML, CSS, JavaScript, MySQL, and computer networking. I am eager to continuously improve my technical skills, collaborate with others, and build innovative digital solutions that contribute to the growth of the technology industry.
 
 ## Featured Projects
