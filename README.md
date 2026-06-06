@@ -1,16 +1,48 @@
-## Hi there 👋
+<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/3651871c-22cd-43e4-aafb-6822440b4c62" />
 
-<!--
-**vincecesarcascabel05-dev/vincecesarcascabel05-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm CASCABEL, VINCE CESAR A.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Web Developer
+- 🌱 Learning React and Node.js
+- 🚀 Building awesome projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Python
+
+## Featured Projects
+
+### Portfolio Website
+Personal portfolio built with HTML and CSS.
+
+### Todo App
+Task management app using React.
+
+### Weather App
+Weather dashboard using API data.
+
+## Contact
+- Email: vincecesarcascabel05@email.com
+- LinkedIn: linkedin.com/in/yourname
+
+# Weather App
+
+## Description
+Shows current weather using OpenWeather API.
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- Search city
+- Current weather
+- Responsive design
+
+
