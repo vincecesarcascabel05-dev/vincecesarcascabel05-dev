@@ -1,5 +1,3 @@
-<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/3651871c-22cd-43e4-aafb-6822440b4c62" />
-
 # Hi 👋 I'm CASCABEL, VINCE CESAR A.
 
 ## About Me
@@ -45,4 +43,5 @@ Shows current weather using OpenWeather API.
 - Current weather
 - Responsive design
 
-
+"Social Media Proofile"
+<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/3651871c-22cd-43e4-aafb-6822440b4c62" />
